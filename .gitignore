@@ -12,3 +12,6 @@ build/
 
 # Include when developing application packages.
 pubspec.lock
+
+# Ignore intllij files
+.idea
